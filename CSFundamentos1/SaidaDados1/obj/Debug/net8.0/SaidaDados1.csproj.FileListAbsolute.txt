@@ -1,0 +1,14 @@
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.exe
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.deps.json
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.runtimeconfig.json
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.dll
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\bin\Debug\net8.0\SaidaDados1.pdb
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.dll
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\refint\SaidaDados1.dll
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.pdb
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\SaidaDados1.genruntimeconfig.cache
+C:\Users\mathe\RiderProjects\CSFundamentos1\SaidaDados1\obj\Debug\net8.0\ref\SaidaDados1.dll

@@ -1,0 +1,14 @@
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\bin\Debug\net8.0\NullableType1.exe
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\bin\Debug\net8.0\NullableType1.deps.json
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\bin\Debug\net8.0\NullableType1.runtimeconfig.json
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\bin\Debug\net8.0\NullableType1.dll
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\bin\Debug\net8.0\NullableType1.pdb
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.dll
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\refint\NullableType1.dll
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.pdb
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\NullableType1.genruntimeconfig.cache
+C:\Users\mathe\RiderProjects\CSFundamentos1\NullableType1\obj\Debug\net8.0\ref\NullableType1.dll
